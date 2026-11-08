@@ -1,4 +1,4 @@
-# Analyse du Churn Client & Impact Financier — Secteur Télécom
+# Analyse du Churn Client & Impact Financier  Secteur Télécom
 
 ![Dashboard Power BI](captures/visualisation.png)
 
@@ -75,4 +75,4 @@ MOUTCHI MARIAMNE— JUNIOR Data Analyst, Douala, Cameroun
 
 ## 🎯 Résultat en une phrase
 
-**26,5 % des clients ont quitté l'opérateur, et la quasi-totalité des départs provient des contrats mensuels sans engagement. Le manque à gagner est chiffré en FCFA et une liste de clients VIP à relancer est livrée aux équipes marketing.
+** 26,5 % des clients ont quitté l'opérateur, et la quasi-totalité des départs provient des contrats mensuels sans engagement. Le manque à gagner est chiffré en FCFA et une liste de clients VIP à relancer est livrée aux équipes marketing.
